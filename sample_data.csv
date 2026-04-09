@@ -1,0 +1,6 @@
+customer_id,signup_date,total_spend,is_active,region
+1001,2022-03-15,450.75,True,Southeast
+1002,2021-11-02,1200.00,True,Northwest
+1003,2023-01-28,89.50,False,Midwest
+1004,2022-07-19,330.20,True,Northeast
+1005,2020-05-11,2750.90,False,Southwest
